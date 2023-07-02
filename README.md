@@ -2,7 +2,7 @@
 
 A direct port of [GPT Engineer](https://github.com/AntonOsika/gpt-engineer) to TypeScript in pure Node.js without dependencies. It's a work in progress, but it's already usable.
 
-[![GitHub Repo stars](https://img.shields.io/github/stars/AntonOsika/gpt-engineer?style=social)](https://github.com/AntonOsika/gpt-engineer)
+[![GitHub Repo stars](https://img.shields.io/github/stars/nnance/gpt-engineer-node?style=social)](https://github.com/AntonOsika/gpt-engineer)
 
 **Specify what you want it to build, the AI asks for clarification, and then builds it.**
 
