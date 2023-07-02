@@ -40,7 +40,7 @@ async function start(
   for (const step of steps) {
     const messages = await step(ai, dbs, logging);
     await fs.writeFile(
-      path.join(dbs.logs.path, `${step.name}.json`),
+      path.join(dbs.logs.path, step.name),
       JSON.stringify(messages)
     );
   }
