@@ -1,3 +1,17 @@
+# Distribution / packaging
 node_modules
+
+# build output
 dist
+
+# macOS
 .DS_Store
+
+# any log file
+*log.txt
+todo
+scratchpad
+
+# Ignore GPT Engineer files
+# projects
+# !projects/example
